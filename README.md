@@ -5,7 +5,6 @@ Hi Everyone!
 - 🤔 I’m looking for help with Data Engineering
 - 💬 Ask me about Python
 - 📫 How to reach me: imran@nextgentechinc.com
-- ⚡ Fun fact: Learning data analysis is awesome
 
 <!--
 **imrannextgentechinc/imrannextgentechinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
